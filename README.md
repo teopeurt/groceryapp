@@ -1,3 +1,2 @@
-~item name~
 rice
 sas
